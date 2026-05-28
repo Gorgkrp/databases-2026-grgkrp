@@ -1,1 +1,1 @@
-# databases-2026-grgkrp
+An SQL project about a travel agency and trip bookings
